@@ -22,7 +22,7 @@ resnet50 and resnet152 model on icdar 2015:
 2. ~~[google drive](https://drive.google.com/drive/folders/1r3Q1GJ5990WYrwXKT29aHvfQNW92QkXv?usp=sharing)~~
 
 ## Data Preparation
-* x1,y1,x2,y2,x3,y3,x4,y4,label 坐标从左上角开始，逆时针方向
+* x1,y1,x2,y2,x3,y3,x4,y4,label 坐标从左上角开始，顺时针方向
 follow icdar15 dataset format
 ```
 img
